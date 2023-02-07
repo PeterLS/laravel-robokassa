@@ -1,2 +1,2 @@
 Install:<br>
-`composer install peterls/laravel-robokassa`
+`composer require peterls/laravel-robokassa`

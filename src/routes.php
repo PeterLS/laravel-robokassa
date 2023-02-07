@@ -1,6 +1,6 @@
 <?php
 
-namespace Chelout\Robokassa\Controllers;
+namespace PeterLS\LaravelRobokassa\Controllers;
 
 use Illuminate\Support\Facades\Route;
 
